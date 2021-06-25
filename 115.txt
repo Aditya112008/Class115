@@ -1,0 +1,24 @@
+Need Of Logistic Regression : 
+Applies to a categorical data
+Example : 0/1, Pass/Fail , True/ False , Positive/Negative , Yes/No 
+
+Score , Accepted 
+30      0
+85      1
+
+Score: Independent variable
+Accepted : Dependdent Variable 
+
+Linear Regression plot : In Linear Regression the line we plot is not helpful for predicting the dependent variable using the independent Variable
+
+Classification of Logistic Regression : 
+That is Class A  , Class B
+
+Sigmoid Function :
+Y = 1/1+e^(-x)
+x is the independent variable 
+e is the euler's constant = 2.718
+Y is the output
+
+Sigmoid Function is trying to cnvert the independent variable into a expression of probability that ranges between 0 And 1 with respect to the dependent variable 
+
