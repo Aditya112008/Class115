@@ -60,7 +60,7 @@ plt.scatter(X.ravel(),Y,color = 'black', zorder = 20)
 #Defining the sigmoid function to predict the probability as output
 
 def model(x):
-    return 1/(1+np.exp(-X))
+    return 1/(1+np.exp(-x))
 
 #Using the line formula 
 #LinSpace Function is used to evenly space the dots 
